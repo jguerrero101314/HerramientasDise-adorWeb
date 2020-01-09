@@ -1,0 +1,7 @@
+   <!-- Medidas de bootstrap 
+        .col        Extra Pequeño (Extra Small) - Smartphones Vertical                   menos de 544px
+        .col-sm     Pequeño (Small) - Smartphones Vertical                               Mas de 544px y Menos de 768px
+        .col-md     Mediano (Medium) - Tablets                                           Mas de 768px y menos de 992px
+        .col-lg     Largo (Large) - Computadoras                                         Mas de 992px y Menos de 1200px
+        .col-xl     Extra Largo (Extra Large) - computadoras                             Mas de 1200px
+    -->
