@@ -1,0 +1,8 @@
+  
+image-rendering: pixelated
+esto es para pixelear la imagen
+image-rendering: crisp-edges
+Esta propiedad permite que la imagen que se va a escalar se preserve el contraste y de esta forma no existan borrones en 
+el renderizado de la imagen.
+image-rendering: auto
+Este viene siendo el valor predefinido e indica al algoritmo que maximiza la apariencia de la imagen.
